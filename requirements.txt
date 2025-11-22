@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+web3==6.3.0
+eth-account
+pydantic
+pycryptodome
+requests
+torch==2.2.0   # placeholder; if not needed in minimal setup you can remove; included to satisfy stack
+transformers==4.40.0  # placeholder
